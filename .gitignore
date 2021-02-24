@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+*.pyc
+training_set.csv
+*.zip
+*.tar.xz
+.vscode
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.gz
+
+# macOS General
+.DS_Store
